@@ -3581,7 +3581,7 @@ body[data-active-view="webshop"] .brand {
   font-family: "Manrope", sans-serif;
   font-size: clamp(1rem, 1.3vw, 1.22rem);
   font-weight: 500;
-  line-height: 1.52;
+  line-height: 1.4;
 }
 
 .app-view[data-view="home"] .hero-actions {
